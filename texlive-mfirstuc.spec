@@ -1,6 +1,6 @@
 Name:		texlive-mfirstuc
 Version:	64743
-Release:	1
+Release:	2
 Summary:	Uppercase the first letter of a word
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mfirstuc
