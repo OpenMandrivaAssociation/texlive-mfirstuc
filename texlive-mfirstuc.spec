@@ -3,7 +3,7 @@ Version:	64743
 Release:	2
 Summary:	Uppercase the first letter of a word
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mfirstuc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mfirstuc
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mfirstuc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mfirstuc.doc.r%{version}.tar.xz
